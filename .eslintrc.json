@@ -39,6 +39,7 @@
       "no-unused-vars": "off",
       "@typescript-eslint/no-unused-vars": "off",
       "react-hooks/rules-of-hooks": "error",
+      "import/no-duplicates": "off",
       "react-hooks/exhaustive-deps": "warn",
       "no-undef": "off",
       "react/jsx-filename-extension": [1, { "extensions": [".tsx"] }],
